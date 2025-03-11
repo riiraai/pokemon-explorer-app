@@ -101,6 +101,13 @@ pokemon-explorer-app/
 └── vite.config.ts        # Konfigurasi Vite
 ```
 
+## Informasi Pengguna Default
+
+Gunakan informasi pengguna default berikut untuk login:
+
+-   **Email**: default@example.com
+-   **Password**: password123
+
 ## Referensi API
 
 Proyek ini menggunakan [PokeAPI](https://pokeapi.co/) untuk mengambil data Pokemon sebagai external API. Berikut adalah endpoint utama yang digunakan:
