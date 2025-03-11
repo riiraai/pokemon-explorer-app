@@ -1,0 +1,36 @@
+const theme = {
+	colors: {
+		primary: '#ef4444',
+		primaryLight: '#f87171',
+		primaryDark: '#dc2626',
+		secondary: '#3761a8',
+		background: '#f5f5f5',
+		text: '#333',
+		white: '#fff',
+		lightGray: '#e0e0e0',
+		mediumGray: '#9e9e9e',
+		darkGray: '#616161',
+	},
+	typeColors: {
+		normal: '#A8A77A',
+		fire: '#EE8130',
+		water: '#6390F0',
+		electric: '#F7D02C',
+		grass: '#7AC74C',
+		ice: '#96D9D6',
+		fighting: '#C22E28',
+		poison: '#A33EA1',
+		ground: '#E2BF65',
+		flying: '#A98FF3',
+		psychic: '#F95587',
+		bug: '#A6B91A',
+		rock: '#B6A136',
+		ghost: '#735797',
+		dragon: '#6F35FC',
+		dark: '#705746',
+		steel: '#B7B7CE',
+		fairy: '#D685AD',
+	},
+};
+
+export default theme;
