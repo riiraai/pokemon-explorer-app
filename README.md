@@ -1,10 +1,10 @@
 # Aplikasi Pokemon Explorer
 
-Proyek ini dibuat sebagai bagian dari tes online untuk proses rekrutmen di PT. Digdaya Olah Teknologi (DOT) Indonesia.
+Proyek ini dibuat sebagai bagian dari tes online untuk proses rekrutmen (Frontend Reactjs - Remote) di PT. Digdaya Olah Teknologi (DOT) Indonesia.
 
 ## Deskripsi
 
-Aplikasi Pokemon Explorer adalah aplikasi web yang memungkinkan pengguna untuk menjelajahi dan menelusuri data Pokemon dari PokeAPI. Pengguna dapat mencari Pokemon, melihat detail mereka, dan menyimpan Pokemon favorit mereka.
+Aplikasi Pokemon Explorer adalah aplikasi web yang memungkinkan pengguna untuk menjelajahi dan menelusuri data Pokemon dari PokeAPI. Pengguna dapat mencari Pokemon, dan melihat detail mereka.
 
 ## Prasyarat
 
@@ -110,4 +110,4 @@ Proyek ini menggunakan [PokeAPI](https://pokeapi.co/) untuk mengambil data Pokem
 
 ## Penulis
 
-Ari Saputra - Dibuat sebagai bagian test online untuk proses hiring PT. Digdaya Olah Teknologi (DOT) Indonesia.
+Ari Saputra - [riiraai](https://github.com/riiraai)
