@@ -88,8 +88,8 @@ const ToggleButton = styled.button`
 
 export function AuthModal() {
 	const [isSignUp, setIsSignUp] = useState(false);
-	const [email, setEmail] = useState('default@example.com');
-	const [password, setPassword] = useState('password123');
+	const [email, setEmail] = useState('');
+	const [password, setPassword] = useState('');
 	const [error, setError] = useState('');
 	const { signIn, signUp, isAuthModalOpen, closeAuthModal, loading } = useAuth();
 
@@ -129,6 +129,7 @@ export function AuthModal() {
 							label="Email"
 							name="email"
 							type="email"
+							placeholder="your.email@example.com"
 							value={email}
 							onChange={(e) => setEmail(e.target.value)}
 							required
@@ -139,6 +140,7 @@ export function AuthModal() {
 							label="Password"
 							name="password"
 							type="password"
+							placeholder="********"
 							value={password}
 							onChange={(e) => setPassword(e.target.value)}
 							required
