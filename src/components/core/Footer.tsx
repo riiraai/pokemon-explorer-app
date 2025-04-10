@@ -52,8 +52,6 @@ export default function Footer() {
 						>
 							<strong>Ari Saputra</strong>
 						</a>
-						for an online test system for the hiring process at PT.
-						Digdaya Olah Teknologi (DOT) Indonesia.
 					</Typography>
 				</div>
 				<a
